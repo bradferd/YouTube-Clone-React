@@ -1,5 +1,4 @@
 import axios from 'axios';
-import VideoList from '../components/VideoList';
 
 const KEY = 'AIzaSyCgDq3Ywwq3pPNcS1yHWuR60sp6NqW-ti8';
 
